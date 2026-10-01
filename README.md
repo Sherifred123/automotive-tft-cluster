@@ -208,7 +208,7 @@ make sim
 * [02. Graphics Engine Design: Q15 Integer Math & Dirty Rectangles](docs/02_graphics_engine_design.md)
 * [03. Automotive CAN Telemetry & J1939 Frame Specifications](docs/03_can_telemetry_dbc.md)
 * [04. Automotive Odometer Wear-Leveling & Anti-Tearing NVM Service](docs/04_odometer_wear_leveling.md)
-* [05. Senior Embedded Interview Deep Dive (Pricol & Automotive Tier-1 Focus)](docs/05_interview_deep_dive.md)
+* [05. System Design Rationale & Architectural Trade-offs](docs/05_design_decisions_and_tradeoffs.md)
 
 ---
 
