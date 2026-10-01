@@ -27,7 +27,7 @@
   <em>Figure 1: Real-Time Automotive Digital TFT Instrument Cluster Running at 60 FPS (SAE J1939 CAN Telemetry, Dynamic Vector Needles, and Safety Watchdog).</em>
 </p>
 
-> 🚀 **[Launch Interactive 60 FPS HTML5 Cluster Simulator & Web Showcase](docs/index.html)** *(Test needles, turn signals, and CAN faults right in your browser!)*
+> 🚀 **[Launch Live Interactive 60 FPS Cluster Simulator & Web Showcase](https://sherifred123.github.io/automotive-tft-cluster/)** *(Test needles, turn signals, and CAN faults right in your browser!)*
 
 This repository contains a production-grade **Automotive Digital TFT Instrument Cluster & CAN Telemetry Node** designed for **two-wheeler Electric Vehicles (EVs)**, digital motorcycles, and commercial vehicle instrument panels.
 
